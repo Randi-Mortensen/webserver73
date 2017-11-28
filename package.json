@@ -1,0 +1,23 @@
+{
+  "name": "webserver73",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/frankgoldmann/webserver73.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/frankgoldmann/webserver73/issues"
+  },
+  "homepage": "https://github.com/frankgoldmann/webserver73#readme",
+  "dependencies": {
+    "path": "^0.12.7",
+    "restify": "^6.3.4"
+  }
+}
